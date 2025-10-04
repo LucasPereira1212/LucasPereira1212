@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 
+
+linguagens de progamação que tenho conhecimento básico:
+Html5 Css JavaScript c++
+
 
 <!--
 **LucasPereira1212/LucasPereira1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
