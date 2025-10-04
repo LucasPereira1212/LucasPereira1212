@@ -1,6 +1,6 @@
 ## Hi there 👋 
 linguagens de progamação que tenho conhecimento básico:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,java)](https://skillicons.dev)
 
 
 
