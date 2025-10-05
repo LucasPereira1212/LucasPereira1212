@@ -1,6 +1,6 @@
 # Lucas Pereira 💻
 
-**`Desenvolvedor FullStack`**
+**`Inicio na carraira de Desenvolvedor FullStack`**
 
 ---
 
