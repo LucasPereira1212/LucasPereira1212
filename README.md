@@ -5,7 +5,7 @@
 ---
 
  Olá, meu nome é Lucas, tenho 19 anos, moro em Guarulhos/SP 
-**atualmento estou cursando superior de analise e desenvolvimento de sistemas pela uniasselvi - semipresencial - noturno - com finalização em 01/12/2027**.
+**atualmento estou cursando superior de analise e desenvolvimento de sistemas pela uniasselvi - semipresencial EAD - noturno - com finalização em 01/12/2027**.
  Sou apaixonado por programação e amo estar nessa área, gosto de esta cada dia mais aprendendo sobre tecnologias novas e experimentar novas aventuras.
 Estarei vindo por meio do github postar todo o meu progresso profissional e desenvolvimento da minha carreira
 
