@@ -14,7 +14,7 @@ Estarei vindo por meio do github postar todo o meu progresso profissional e dese
 
 ### linguagens e Tecnologias 👨‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,java)](https://skillicons.dev)
 
 ---
 
