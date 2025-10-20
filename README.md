@@ -24,7 +24,7 @@ Estarei vindo por meio do github postar todo o meu progresso profissional e dese
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPereira1212&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPereira1212&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 
